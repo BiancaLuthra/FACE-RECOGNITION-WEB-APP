@@ -1,0 +1,23 @@
+body{
+    background-color: pink; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, pink, purple);
+    opacity: 0.93;
+    color: whitesmoke;
+}
+.heading{
+    width: 80%;
+    font-size: 60px;
+}
+.objects{
+    color: greenyellow;
+    font-size: 25px;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.objects,#result_name,#result_answer{
+    color: greenyellow;
+
+}
